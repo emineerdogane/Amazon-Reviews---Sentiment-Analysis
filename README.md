@@ -10,7 +10,7 @@ This research proposal aims to conduct a sentiment analysis of Amazon review dat
 4.	To evaluate the performance of different machine learning algorithms for sentiment analysis on Amazon review data.
 5.	To provide insights and recommendations based on the sentiment analysis results.
 
-The dataset will be retrieved from Kaggle.com (https://www.kaggle.com/code/halimedogan).
+The dataset is retrieved from Kaggle.com (https://www.kaggle.com/code/halimedogan).
 Data contains one product and its reviews. There are 4914 unique customers and reviews about one product (asin ID: B007WTAJTO) between 01/09/2012 and 12/07/2014. The dataset contains the following columns:
 1.	Reviewer ID
 2.	Asin (product ID)
